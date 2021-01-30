@@ -2,7 +2,7 @@
 
 This data analysis was done on a trial study for SCC tumor treatment on 249 mouses. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of the drug of interest, Capomulin, versus the other treatment regimens. The executive team wants all the tables and figures needed for the technical report of the study along with a top level summary.
 
-The study raw data are reported in [data]{./data}. The scripts relies on the followeing Python libraries: [matplotlib]{https://matplotlib.org/}, [pandas]{https://pandas.pydata.org/docs/}, [scipy]{https://docs.scipy.org/doc/scipy/reference/} and [numpy]{https://numpy.org/doc/}. 
+The study raw data are reported in data[./data]. The scripts[./pymaceuticals_starter.ipybn] relies on the followeing Python libraries: matplotlib[https://matplotlib.org/], pandas[https://pandas.pydata.org/docs/], scipy[https://docs.scipy.org/doc/scipy/reference/] and numpy[https://numpy.org/doc/]. 
 
 The main observations are reported at the top of the notebook and here for your convenience:
 1. Capomulin and Ramicane showed the best performances out of the 10 drugs tested as suggested by the smallest mean tumor volume.
