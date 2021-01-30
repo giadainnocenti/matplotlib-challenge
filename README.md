@@ -9,6 +9,7 @@ The main observations are reported at the top of the notebook and here for your 
 2. Capomulin and Ramicane have an higher number of measurements with respect to all the other drugs, probably because of the promising results. In fact, at 45 days of observation their performances seems comparable.
 3. Apparently, The heavier is the mouse the larger is the average tumor volume. In my opinion, although the correlation between these two factors is good (pearson correlation = 0.84) this is not a conclusive evidence. In fact the drug efficiency may be the same in the lighter and heavier mouses. Further investigation are necessary before claiming this observation as conclusive. .
 
+Description of the script:
 * The data have been checked for duplication and if any duplicate subject found was removed from the analysis.
 * The summary statitic (mean, median, variance, standard deviation, and SEM) of the tumor volume was evaluated for each drug. The number of total measurements for each drug was reported in a bar plot while the gender percentage of the mouses was plotted as a pie chart (The study was well balanced in terms of gender). 
 * The executive team wanted a break down of the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. A boxplot was made to compare performance and highlight eventual outliers.
